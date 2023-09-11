@@ -1,0 +1,55 @@
+
+
+
+*{
+ font-family: 'Electrolize', sans-serif;
+}
+
+:root{
+   --ColorG: rgb(#21629A);
+   --ColorY: rgb(#F5D55C);
+}
+
+.bg-G{
+    background-color: var(--ColorG);
+}
+
+.bg-Y{
+    background-color: var(--ColorY);
+
+}
+
+.txt-G{
+    color: var(--ColorG);
+}
+
+.txt-Y{
+    color: var(--ColorY);
+}
+
+/*  CSS NAVBAR */
+
+.navbar-custom{
+width: 100%;
+background-color: #21629A;
+
+}
+
+.logo-custom{
+
+ max-width: 100%;;
+ height: 50px;
+text-align: right;
+    
+    
+
+
+}
+
+.nav-link{
+    color: #F5D55C;
+    
+
+
+    
+}
